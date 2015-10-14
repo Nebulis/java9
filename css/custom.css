@@ -1,0 +1,12 @@
+.progress,
+.reveal .progress {
+  color: gold;
+}
+
+.done {
+  color: green;
+}
+
+.todo {
+  color: #a23;
+}
