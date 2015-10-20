@@ -1,5 +1,5 @@
 .progress,
-.reveal .progress {
+.reveal .inprogress {
   color: gold;
 }
 
@@ -9,4 +9,23 @@
 
 .todo {
   color: #a23;
+}
+
+.reveal section p img {
+  border: none;
+}
+
+.reveal .footer {
+  position: absolute;
+  bottom: 1em;
+  margin: auto;
+  font-size: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+}
+
+.jigsaw {
+  height: 500px;
 }
